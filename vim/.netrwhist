@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jfv/code/javascript/d3/old_graphs/public/js'
+let g:netrw_dirhist_2='/Users/jfv/code/sites/vis_brunch'
+let g:netrw_dirhist_3='/Users/jfv/Downloads/h5bp-html5-boilerplate-007754e'
+let g:netrw_dirhist_4='/Users/jfv/code/cocoa/ximera/readers/ipad/Classes'
+let g:netrw_dirhist_5='/Users/jfv/code/sites/bioreports/_plugins'
+let g:netrw_dirhist_6='/Volumes/genekc03/scratch/jfv/karen_umr_2_exp/align_ecoli'
+let g:netrw_dirhist_7='/Volumes/genekc03/scratch/jfv/hawley_snp_molng-38/align'
+let g:netrw_dirhist_8='/Users/jfv/code/ruby/idify_rails'

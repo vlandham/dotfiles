@@ -1,0 +1,9 @@
+[user]
+	name = Jim V
+	email = jfv@stowers.org
+[color]
+	ui = true
+[core]
+  excludesfile = /Users/jfv/.gitignore
+[difftool "diffmerge"]
+  cmd = diffmerge \"$LOCAL\" \"$REMOTE\"
